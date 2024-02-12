@@ -1,10 +1,5 @@
-# [Backstage](https://backstage.io)
+<kbd>[&larr; README Principal](../../README.md)</kbd>
 
-This is your newly scaffolded Backstage App, Good Luck!
-
-To start the app, run:
-
-```sh
-yarn install
-yarn dev
-```
+<h1 align=center>
+Web Moderno com JavaScript
+</h1>
